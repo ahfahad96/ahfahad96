@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi! I'm Fahad 🤙<width="30px"></h1>
-  <p align="center">
+<h1 align="left">Hi! I'm Fahad.<width="30px"></h1>
+  <p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer;DL+%2F+ML" alt="Typing SVG" /></a>
   </p>
   <h2>📖 About Me?</h2>
@@ -12,8 +12,9 @@
   
   <h2>🎓 Education </h2>
   I am a Computer Science Graduate from National University of Computer and Emerging Sciences (FAST), Islamabad. My Majors were Data Science, Natural Language Processing and Machine Learning.
-  
+ 
   <h2>🛠 Languages and Frameworks </h2>
+  <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30" alt="python" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" height="30" alt="cplusplus" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4" height="30" alt="githubdesktop" /></a>
@@ -36,6 +37,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" height="30" alt="tensorflow" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" height="30" alt="ubuntu" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30" alt="vscode" /></a>
+  </p>
   
   
   <h2>💬 Let's Connect </h2>
@@ -50,6 +52,25 @@
   <a href="mailto:a.h.fahad18@gmail.com"><img alt="Gmail" title="Fahad's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com/faahdayy"><img alt="Twitter" title="Fahad's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
+
+
+<br/>
+
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahfahad96&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahfahad96&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+
+<br/>
+
+
+
 <!---
 ahfahad96/ahfahad96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
