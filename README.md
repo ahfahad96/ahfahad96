@@ -11,7 +11,7 @@
   during my undergraduate degree, where I worked on multiple projects related to Data Science and Machine Learning.
   
   <h2>🎓 Education </h2>
-  I am a Computer Science Graduate from National University of Computer and Emerging Sciences (FAST), Islamabad.
+  I am a Computer Science Graduate from National University of Computer and Emerging Sciences (FAST), Islamabad. My Majors were Data Science, Natural Language Processing and Machine Learning.
   
   <h2>🛠 Languages and Frameworks </h2>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30" alt="python" /></a>
